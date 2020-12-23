@@ -11,12 +11,21 @@ debug/
 # Other files and folders
 .settings/
 
+### Linux ###
+*~
+
 # Executables
 *.log
 *.swf
 *.air
 *.ipa
 *.apk
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
